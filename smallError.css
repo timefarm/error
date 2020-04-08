@@ -2,7 +2,9 @@ p {
 text-align: justify;
   text-justify: inter-word;
   font-family: Arial;
-   font-variant: normal|small-caps|initial|inherit;
+p {
+font-variant: small-caps;
+} 
   font-size: 3em;
   font-weight: 500;
 
