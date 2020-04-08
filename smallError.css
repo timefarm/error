@@ -1,8 +1,7 @@
 p {
 text-align: justify;
   text-justify: inter-word;
-  font-family: Arial;
-  font-variant: small-caps;
+  font-family: Arial; font-variant: small-caps;
   font-size: 3em;
   font-weight: 500;
 
